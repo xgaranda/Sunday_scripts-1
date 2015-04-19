@@ -3,6 +3,8 @@
 ##########################################################
 # This script will download the split gap minder zip file,
 # unzip it, and archive the data
+
+# We edited the next line in class, adding "-k" after curl
 ##########################################################
 
 
